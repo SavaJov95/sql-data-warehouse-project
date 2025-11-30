@@ -81,4 +81,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm Sava Jovanović, passionate self-learning data analyst to be! This is my first bigger SQL project!
+Hi there! I'm Sava Jovanović, passionate data analyst to be! This is my first bigger SQL project! I am eager to gain more knowledge about data and eventually to start a career in that proffesion.
+
+## 🤗 Credits
+
+Big credits goes to Baraa Khatib Salkini, my online teacher! I am very thankful for his contribution to data enthusiasts with making great courses about various data topics. https://github.com/DataWithBaraa THANK YOU!
